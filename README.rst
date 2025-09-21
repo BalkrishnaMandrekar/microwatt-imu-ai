@@ -90,8 +90,7 @@ Designing
 ---------
 
 The main design challenge is integrating the Microwatt CPU with the LiteX-based SoC 
-infrastructure and ensuring seamless I²C communication with the MPU6050. 
-Unlike Caravel/Caravan, the OpenFrame harness exposes full GPIO control, 
+infrastructure and ensuring seamless I²C communication with the MPU6050.The OpenFrame harness exposes full GPIO control, 
 so the I²C lines (SCL, SDA) and UART debug pins are managed directly at the SoC level.
 
 Key design features:
