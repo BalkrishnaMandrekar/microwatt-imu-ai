@@ -52,6 +52,7 @@ Detailed documentation (setup, build, and usage instructions) is provided in the
 Table of Contents
 -----------------
 - Module Overview
+- Block diagram 
 - Designing
 - Building
 - Submitting
@@ -85,7 +86,23 @@ The design supports UART/USB debug I/O, sensor data streaming,
 and real-time control loops, with LiteX providing bus interconnection
 and peripheral management.
 
+Block diagram
+---------
 
+     __________________________________________________________________
+     |                                                                |
+     |                                                                |
+     |
+     |
+     |
+     |
+     |
+     |
+     |
+     | 
+     |
+     |
+     |
 Designing
 ---------
 
