@@ -47,7 +47,7 @@ can scale into real-time applications in robotics, e-mobility,
 and adaptive controllers.
 
 This README provides a high-level overview of the project’s features and motivation. 
-Detailed documentation (setup, build, and usage instructions) is provided in the /docs directory.
+Detailed documentation (setup, build, and usage instructions) will be provided in the /docs directory.
 
 Table of Contents
 -----------------
